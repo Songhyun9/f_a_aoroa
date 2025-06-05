@@ -127,20 +127,20 @@ export const issues = [
 
 #### 필수 기능
 
-- [ ] 이슈 목록 표시 (제목, 상태, 담당자, 생성일)
-- [ ] 상태별 필터링 (전체, PENDING, IN_PROGRESS, COMPLETED, CANCELLED)
-- [ ] 새 이슈 생성 버튼
-- [ ] 각 이슈 클릭 시 상세 페이지로 이동
+- [O] 이슈 목록 표시 (제목, 상태, 담당자, 생성일)
+- [O] 상태별 필터링 (전체, PENDING, IN_PROGRESS, COMPLETED, CANCELLED)
+- [O] 새 이슈 생성 버튼
+- [O] 각 이슈 클릭 시 상세 페이지로 이동
 
 ### 2. 이슈 생성/상세/수정 페이지 (필수)
 
 #### 필수 기능
 
-- [ ] 이슈 정보 표시 및 편집 (제목, 설명, 상태)
-- [ ] 담당자 지정 기능 (드롭다운: 김개발, 이디자인, 박기획 중 선택)
-- [ ] 상태 변경 기능 (PENDING, IN_PROGRESS, COMPLETED, CANCELLED)
-- [ ] 저장 기능
-- [ ] 목록으로 돌아가기
+- [O] 이슈 정보 표시 및 편집 (제목, 설명, 상태)
+- [O] 담당자 지정 기능 (드롭다운: 김개발, 이디자인, 박기획 중 선택)
+- [O] 상태 변경 기능 (PENDING, IN_PROGRESS, COMPLETED, CANCELLED)
+- [O] 저장 기능
+- [O] 목록으로 돌아가기
 
 ## API 연동
 
